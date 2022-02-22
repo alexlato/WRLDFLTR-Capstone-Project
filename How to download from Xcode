@@ -1,0 +1,6 @@
+Press Code in repository
+Download project file as a zip
+Launch .xcodproj file with Xcode
+Have iOS device connected and recognized 
+Press play button in top left of Xcode to build
+The app will build to your device shortly
